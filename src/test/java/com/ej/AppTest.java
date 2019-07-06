@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple java app tets
+ * This is SR test.
  */
 public class AppTest 
     extends TestCase
