@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * This is SR test. second CI 
+ * This is a test.
  */
 public class AppTest 
     extends TestCase
